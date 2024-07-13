@@ -31,67 +31,79 @@ projects:
     desc: Leetcode算法手册
     link: learning-resources/leetcode-note.html
     icon: /assets/img/vuepress-hope-logo.svg
-
-
 ---
 
 
 
-大彬是**非科班**出身，大三开始自学Java，校招斩获**京东、携程、华为**等offer。作为一名转码选手，深感这一路的不易。
 
-**希望我的分享可以帮助更多的小伙伴，我踩过的坑你们不要再踩**！
 
-[<img src="https://img.shields.io/badge/Wechat-微信交流群-success">](http://img.topjavaer.cn/img/微信群.png)
-[<img src="https://img.shields.io/badge/公众号-程序员大彬-orange">](https://mp.weixin.qq.com/s?__biz=Mzg2OTY1NzY0MQ==&mid=2247488751&idx=1&sn=507e27534b6ea5f4b3771b30e1fcf57e&chksm=ce98e9a9f9ef60bfbf1370899b49181bae5247e5935714f7ad9e3d06c0028a25c0bfc34d4441#rd)
-[<img src="https://img.shields.io/badge/哔哩哔哩-我是大彬呀-pink">](https://space.bilibili.com/1729916794)
-[<img src="https://img.shields.io/badge/知乎-程序员大彬-blue">](https://www.zhihu.com/people/dai-shu-bin-13)
-[<img src="https://img.shields.io/badge/PDF-免费计算机电子书籍-green">](https://github.com/Tyson0314/java-books)
 
-## 秋招提前批信息汇总
 
-[秋招提前批及正式批信息汇总（含内推）](https://docs.qq.com/sheet/DYW9ObnpobXNRTXpq?tab=BB08J2)
+
+
+分享
+
+出身：科班/非科班
+
+学习Java：自学/培训
+
+校招/社招
+
+offer：华为、字节、腾讯、阿里、网易、京东、快手、携程、平安
+
+向他人学习：见贤思齐，见不贤而内自省也
+
+微信交流群、微信公众号、B站、知乎、PDF版电子书todo
+
+
 
 ## 面试手册电子版
 
-本网站所有内容已经汇总成**PDF电子版**，**PDF电子版**在我的[**学习圈**](zsxq/introduce.md)可以获取~
+本网站所有内容已经汇总成**PDF电子版**，**PDF电子版**在我的[**学习圈**](zsxq/introduce.md)可以获取
 
 ## 计算机经典书籍PDF
 
-给大家分享**200多本计算机经典书籍PDF电子书**，包括**C语言、C++、Java、Python、前端、数据库、操作系统、计算机网络、数据结构和算法、机器学习、编程人生**等，感兴趣的小伙伴可以自取：
+200多本计算机经典书籍PDF电子书：
+C语言、C++、Java、Python、前端、数据库、操作系统、计算机网络、数据结构和算法、机器学习、编程人生
 
-![](http://img.topjavaer.cn/image/Image.png)
++ https://pan.xunlei.com/s/VNlmlh9jBl42w0QH2l4AJaWGA1?pwd=j8eq#
 
-![](http://img.topjavaer.cn/image/image-20221030094126118.png)
++ 备用链接：https://pan.quark.cn/s/3f1321952a16
 
-**200多本计算机经典书籍PDF电子书**：https://pan.xunlei.com/s/VNlmlh9jBl42w0QH2l4AJaWGA1?pwd=j8eq#
+[学习路线图](G:\重新学习java\3学习笔记版\20240529来自李金燕分享_Java面试手册\java学习路线.xmind)
 
-备用链接：https://pan.quark.cn/s/3f1321952a16
 
-## 学习路线
 
-![](http://img.topjavaer.cn/img/20220530232715.png)
+群：交流、讨论：求职(面试)和技术，提&答问题
 
-> 微信搜索【程序员大彬】，回复【学习路线】获取**高清图**
+获得机会：内推大厂：阿里、字节等
 
-## 交流群
+氛围
 
-学习路上，难免遇到很多坑，为方便大家交流求职和技术问题，我建了**求职&技术交流群**，在群里可以讨论技术、面试相关问题，也可以获得阿里、字节等大厂的内推机会！
 
-交流群学习氛围很浓厚，截个图给大家感受下。
 
-<img src="http://img.topjavaer.cn/img/交流群1.png"  />
+扫描二维码，加微信好友、加微信群：一起成长
 
-![](http://img.topjavaer.cn/img/交流群2.png)
+群策群力：
 
-<img src="http://img.topjavaer.cn/img/交流群3.png" style="zoom: 50%;" />
+若有：
 
-感兴趣的小伙伴可以扫描下方的二维码**加我微信**，**备注加群**，我拉你进群，一起学习成长！
++ 建议
++ 未覆盖到的知识点
++ 内容勘误(指正)
 
-![](http://img.topjavaer.cn/img/微信加群.png)
+则请：
 
-## 参与贡献
++ 提交PR
 
-1. 如果您对本项目有任何建议或发现文中内容有误的，欢迎提交 issues 进行指正。
-2. 对于文中我没有涉及到知识点，欢迎提交 PR。
-3. 如果您有文章推荐请以 markdown 格式到邮箱 `1713476357@qq.com`，
-[中文技术文档的写作规范指南](https://github.com/ruanyf/document-style-guide)。
++ 提交 issues 
+
+若有：
+
++ 推荐的文章
+
+则请：
+
++ markdown 格式：send to 1713476357@qq.com
+
+[中文技术文档的写作规范指南](https://github.com/ruanyf/document-style-guide)
