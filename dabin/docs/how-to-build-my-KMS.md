@@ -25,13 +25,9 @@
 + 计算机经典书籍
 
   电子书(多为：图片扫描得到的PDF格式)：
-  C语言、C++、Java、Python、前端、数据库、操作系统、计算机网络、数据结构和算法、机器学习、编程人生
+  计算机基础、C、C++、Java、Python、前端、数据库、操作系统、计算机网络、数据结构和算法、机器学习、编程人生
 
-  + https://pan.xunlei.com/s/VNlmlh9jBl42w0QH2l4AJaWGA1?pwd=j8eq#
-
-  + 备用链接：https://pan.quark.cn/s/3f1321952a16
-
-  
+  todo
 
 （以下要付费进知识星球的圈子todo）
 
@@ -46,15 +42,21 @@
 + LeetCode刷题笔记(包含C/C++、Java、Go三个版本)
 + MySQL优质教程：6大范式讲解、7大日志剖析、7大SQL性能分析工具
 
-
-
 ## 如何构建知识体系
 
 （思想：清晰地按模块分类，并不断重构）
 
 [中文技术文档的写作规范指南](https://github.com/ruanyf/document-style-guide)
 
+提交issue、提交 PR
+
+- [如何在 Github 上规范的提交 PR](https://juejin.cn/post/7167734674167447582)
+- [如何向开源社区提issue](https://github.com/seajs/seajs/issues/545)
+
 学习资料的形式：视频、文章、源码解析、代码实践
 
 > 资源，学习资料在于精，不在于多
 
+
+
+理论+操作(Java项目(实战经验))

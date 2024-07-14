@@ -18,6 +18,18 @@ Web：Website，网站。有时也指网页端这种方式
 
 
 
+### [提交pr是什么意思](http://www.baidu.com/link?url=T-bRT2TO5XdkSbxp4euHCNHPswHt2pSXZlsZpQD-YpVSqnorlA_aX3kS9v50ZtOPPNRm0i7YpeP8D8MtZ_XLP_1cCuc-k9v-4WsQItr3XEC7q1W4D--5UBQ9F8d1I_faz5o3D7vNqvZICMYJvEhfqbVz6SBmNELkYZSlO4_zTu8gq-gzjxkV6YXk9ZrlW0NElh1OX4R5HyFq1K-UVCXIYgxdvcW-X6148Z7gNuYbnAeD-pgaIOA3Io3Y8ep5WMV9gTab-zCaii5X4g8fKw9rwFlEMN4XqEpSJ8nB_9YoVbBO3d8QeWasyS0unMiA-K2UtZQIvByyITslqxac6AKy_a37CqbbzY1zmsDQjAv-kBIG7j_PNQFliKv417XHXy3Pr2IEhYvL1dE5bTkMFENPh8JnfTWhTYASq_goDrAbNsmKMJJ2uhr-pCzgeV6prST_-WFWkKAf-qg932iHyga9StJxratGSluDC_uacfvJeAILSe7653tOigXMQO58NONK)
+
+**在软件开发和编程领域，"提交PR"指的是提交一个[Pull Request\*\*](https://www.baidu.com/s?tn=51076811_dg&wd=Pull Request&usm=1&ie=utf-8&rsv_pq=f1e84ea4011d80e2&oq=提交pr是什么意思&rsv_t=e8ddMTtlJq%2Bxehq%2BOACSD6Bbk5Ja9VTM9jXvs2evXmHEgOsnxsgTBhzp%2F3%2B38t39TgY&sa=re_dqa_zy&icon=1)（PR）。**这是一个常用术语，尤其在使用版本控制系统如[Git**](https://www.baidu.com/s?tn=51076811_dg&wd=Git&usm=1&ie=utf-8&rsv_pq=f1e84ea4011d80e2&oq=提交pr是什么意思&rsv_t=d7ebnA0jGsyWGqJa1mNXM0IKsID1c%2FFGb6RCOTyu01PBpgGBdLDjQI6QNqA%2B4gqbpyE&sa=re_dqa_zy&icon=1)时。Pull Request是一种通知项目维护人员的方式，表明您已经完成了一些代码改动，并希望将这些改动合并到主项目中的请求。当您对一个开源项目做出改动时，可以通过创建一个Pull Request来请求项目的负责人审查并接受您的改动。这种做法是开源项目合作的一个典型例子，其中任何人都可以为项目做出贡献、改进或添加新功能。
+
+
+
+## 英文单词
+
+resume 简历
+
+schoolmate 同学
+
 ## 软件服务
 
 以第一性原理，思考软件服务的方式：
@@ -56,4 +68,23 @@ App，相对小程序、Web网页
 支持App、网页端、小程序：可随时随地使用
 
 💡
+
+## 学习
+
+
+
+<div align="center"><img src="http://img.topjavaer.cn/img/公众号.jpg" style="zoom:90%;" />
+    <p>个人公众号</p>
+</div>
+<p align="center">
+    <br>
+    <a href="http://img.topjavaer.cn/img/个人微信索隆（交流群）.png"><img src="http://img.topjavaer.cn/img/微信交流群.png" alt="微信交流群"></a>
+<a href="http://img.topjavaer.cn/img/公众号.jpg"><img src="http://img.topjavaer.cn/img/公众号.png" alt="公众号"></a>
+  <a href="https://www.zhihu.com/people/dai-shu-bin-13"><img src="http://img.topjavaer.cn/img/知乎.png" alt="知乎"></a>
+       <a href="https://www.nowcoder.com/profile/8683776/myDiscussPost"><img src="http://img.topjavaer.cn/img/牛客网.png" alt="牛客网"></a>
+       <a href="https://juejin.cn/user/201965869218574/posts"><img src="http://img.topjavaer.cn/img/掘金.png" alt="掘金"></a>
+           <a href="https://github.com/Tyson0314/java-books"><img src="http://img.topjavaer.cn/img/免费计算机电子书籍.png" alt="免费PDF"></a>
+        </p>
+
+
 
