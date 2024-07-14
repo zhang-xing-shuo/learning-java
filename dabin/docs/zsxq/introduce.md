@@ -298,27 +298,7 @@ APP页面，如下所示：
 
 
 
-##### 简历
 
-指导修改
-
-+ 即便是计算机相关的专业，比如软件工程：主修课程不必写许多，甚至可以不写，留出空间给其他内容
-+ HDFS这里，面试官应该会问，思考下会问什么问题
-+ 具体描述一下消息推送是怎么实现的
-+ 延时消息怎么实现的
-+ 项目经历这块如果有数据支撑，会更好，比如一些慢查询优化，从xx秒到xx毫秒等
-
-
-
-![](http://img.topjavaer.cn/img/image-20230111224933180.png)
-
-![](http://img.topjavaer.cn/img/简历修改1.png)
-
-![](http://img.topjavaer.cn/img/image-20230111224052702.png)
-
-![](http://img.topjavaer.cn/img/image-20230111224829883.png)
-
-![](http://img.topjavaer.cn/img/image-20230111224753836.png)
 
 ##### 经验
 
