@@ -1,19 +1,4 @@
----
-sidebar: heading
-title: 科学上网教程
-category: 工具
-tag:
-  - 工具
-head:
-  - - meta
-    - name: keywords
-      content: ghelper
-  - - meta
-    - name: description
-      content: 提高工作效率的工具
----
-
-
+# 科学上网教程 ghelper 提高工作效率的工具
 
 ## Ghelper插件
 
