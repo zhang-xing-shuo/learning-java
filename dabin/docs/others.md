@@ -30,6 +30,8 @@ resume 简历
 
 schoolmate 同学
 
+leader 领导者
+
 ## 软件服务
 
 以第一性原理，思考软件服务的方式：
