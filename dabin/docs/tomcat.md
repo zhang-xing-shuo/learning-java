@@ -1,4 +1,4 @@
-# 
+
 
 # Web之Tomcat基础知识总结
 
@@ -10,7 +10,7 @@ Tomcat,server,serivce,executor,connector,engine,context,host,tomcat启动,tomcat
 
 ![](http://img.topjavaer.cn/img/202305041101996.png)
 
- 接下来简单解释一下。
+ 
 
 **Server**：服务器。Tomcat 就是一个 Server 服务器。
 
